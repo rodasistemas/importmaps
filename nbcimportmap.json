@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "@nbc/assets": "//localhost:8650/nbc-assets.js",
+      "@nbc/routes": "//localhost:8080/nbc-routes.js",
+      "@nbc/login": "//localhost:8900/nbc-login.js",
+      "@nbc/propostas": "//localhost:8800/nbc-propostas.js",
+      "@nbc/root-config": "//localhost:9000/nbc-root-config.js"
+    }
+  }
